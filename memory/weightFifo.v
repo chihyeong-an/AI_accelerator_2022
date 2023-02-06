@@ -1,6 +1,3 @@
-// weightFifo.v
-// Cameron Shinn
-
 // Inputs:
 //
 // clk -- clock signal
