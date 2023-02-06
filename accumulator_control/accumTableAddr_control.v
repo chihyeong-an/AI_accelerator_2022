@@ -1,5 +1,3 @@
-// accumTableAddr_control.v
-// Cameron Shinn
 
 /*
  * This control module outputs the proper addressing for an accumulator table
