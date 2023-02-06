@@ -1,5 +1,4 @@
-// store_outputs_control.v
-// Cameron Shinn
+
 
 module master_output_control(clk,
                              reset,
