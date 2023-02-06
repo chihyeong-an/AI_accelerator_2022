@@ -1,5 +1,3 @@
-// master_fill_fifo_control.v
-// Cameron Shinn
 
 module master_fill_fifo_control(clk,
                                 reset,
