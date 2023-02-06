@@ -1,5 +1,3 @@
-// accumtTableRd_control.v
-// Cameron Shinn
 
 module accumTableRd_control(sub_row, submat_m, submat_n, rd_addr_out);
 
